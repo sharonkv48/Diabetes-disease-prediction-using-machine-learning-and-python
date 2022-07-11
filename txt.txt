@@ -1,0 +1,10 @@
+This is a python program for testing whether the person is diabetic or not
+This program will give 2 output, which is "0" or "1"
+0 means The person is not diabetic
+1 means the person is diabetic
+we have used Support vector machine learning model for the prediction
+
+Goodluck<33
+if you have any doubts, please contact me 
+email: sharonfx100@gmail.com
+Instagram: sharon_._kv
